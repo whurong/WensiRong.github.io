@@ -1,3 +1,4 @@
 theme: jekyll-theme-time-machine
 name: Wensi Rong, Good job
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
